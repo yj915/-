@@ -1,0 +1,12 @@
+C++新标准-C++11&14
+b站视频：https://www.bilibili.com/video/BV1Rp4y1n7fb
+说明及介绍页面：https://github.com/19PDP/Bilibili-plus/tree/master/C++-newC++11&14-HouJie
+GitHub开源地址：https://github.com/19PDP/Bilibili-plus
+
+/*------------ 说明 ------------*/
+本资源来自 热带鱼
+bilibili主页：https://space.bilibili.com/435866355
+GitHub主页：https://github.com/19PDP
+
+本资源完全免费，如果你通过某个收费渠道购买，请举报！
+/*------------------------------*/
